@@ -6,3 +6,4 @@ for i in list1:
             print('The Number is Odd',i)
 list1       
         Print("Hello")
+        print("Hi")
